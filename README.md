@@ -10,7 +10,7 @@ CS:GO Jailbreak Sunucunuzda Komutçu Geçildiğinde veya Ayrıldığında Sunucu
 | sm_supheli_komutcu_bildiri | Komuttan çıkan kişinin komut süresi 30 dakikadan az ise bildirip bildirilmeyeceği |
 | sm_supheli_komutcu_yetkili_etiket | Komuttan çıkan kişinin komut süresi 30 dakikadan az ise etiketlenecek olan yetkili rolü |
 
-**Not:** Plugini Kullanabilmek İçin [Sourcemod Discord Api](https://github.com/Deathknife/sourcemod-discord)'ye İhtiyacınız Vardır.<br>
+**Not:** Plugini Kullanabilmek İçin [Sourcemod Discord Api](https://github.com/Deathknife/sourcemod-discord)'ye ve [SteamWorks](https://forums.alliedmods.net/showthread.php?t=229556)'e İhtiyacınız Vardır.<br>
 **Credits:** [ByDexter - TR-Plugin-Pack](https://github.com/ByDexterTR/TR-Plugin-Pack)
 
 Herhangi Bir Sorunda Discord Üzerinden İletişim Kurabilirsiniz. ( **EnesEmre#2977** )
